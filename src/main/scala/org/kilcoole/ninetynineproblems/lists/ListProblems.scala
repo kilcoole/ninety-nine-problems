@@ -164,6 +164,4 @@ object ListProblems {
     l.combinations(n)
   }//permutateList
 
-  def
-
 }//ListProblems
